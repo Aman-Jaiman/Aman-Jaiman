@@ -26,14 +26,17 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark"/>
+## 📈 Top Languages
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Aman-Jaiman&theme=transparent"/>
+<img src="https://streak-stats.demolab.com?user=Aman-Jaiman&theme=github-dark"/>
 </p>
 
 ---
@@ -49,7 +52,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aman-Jaiman&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aman-Jaiman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -58,6 +61,7 @@
 
 <p align="center">
 <a href="https://github.com/Aman-Jaiman">
+<a href="https://www.linkedin.com/in/aman-sharma-67b517376/">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
