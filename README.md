@@ -27,19 +27,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark" />
 </p>
+
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark" />
 </p>
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Aman-Jaiman&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=Aman-Jaiman&theme=github-dark" />
 </p>
 
 ---
@@ -63,13 +64,29 @@
 ## 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/Aman-Jaiman">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
 <a href="https://www.linkedin.com/in/aman-sharma-67b517376/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/aman_jaiman__">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+---
+## 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Aman_Jaiman__?theme=dark&font=baloo&ext=contest" />
+</p>
 ---
 
 ⭐ From [Aman Jaiman](https://github.com/Aman-Jaiman)
