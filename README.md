@@ -26,10 +26,13 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark&cache_seconds=1800" />
+</p>
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 ---
 
@@ -61,11 +64,12 @@
 
 <p align="center">
 <a href="https://github.com/Aman-Jaiman">
-<a href="https://www.linkedin.com/in/aman-sharma-67b517376/">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
-
+<a href="https://www.linkedin.com/in/aman-sharma-67b517376/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 ---
 
 ⭐ From [Aman Jaiman](https://github.com/Aman-Jaiman)
