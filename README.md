@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aman Jaiman</h1>
 
-<!--
-**Aman-Jaiman/Aman-Jaiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Developer;Full+Stack+Web+Developer;Computer+Science+Student;Problem+Solver&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Skilled in **C++ and Web Development**  
+- 🚀 Building **Full Stack Projects**  
+- 🌱 Currently learning **MERN Stack**  
+- ⚡ Interested in **Problem Solving & Software Development**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,express,mongodb,mysql,react,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=transparent" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Aman-Jaiman&theme=transparent"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Aman-Jaiman/Aman-Jaiman/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aman-Jaiman&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Aman-Jaiman">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+⭐ From [Aman Jaiman](https://github.com/Aman-Jaiman)
