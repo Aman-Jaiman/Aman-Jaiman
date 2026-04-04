@@ -26,11 +26,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=transparent" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=transparent" height="180"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark"/>
 ---
 
 ## 🔥 GitHub Streak
