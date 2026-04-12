@@ -27,13 +27,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark" />
 </p>
 
 ## 📈 Top Languages
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark)" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark" />
 </p>
 ---
 
