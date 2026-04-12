@@ -12,8 +12,8 @@
 - 💻 Skilled in **C++ and Web Development**  
 - 🚀 Building **Full Stack Projects**  
 - 🌱 Currently learning **MERN Stack**  
+- 🌐 Portfolio: https://portfolio-ietnk5anr-aman-jaimans-projects.vercel.app/
 - ⚡ Interested in **Problem Solving & Software Development**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman-Jaiman&layout=compact&theme=github_dark)](https://github-readme-stats-sigma-five.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark)" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Jaiman&show_icons=true&theme=github_dark" />
 </p>
 
 ## 📈 Top Languages
@@ -77,6 +77,11 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
+<a href="https://portfolio-ietnk5anr-aman-jaimans-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
 ---
 
 ## 💻 LeetCode Stats
